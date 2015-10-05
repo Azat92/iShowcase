@@ -1,0 +1,21 @@
+{
+  "name": "iShowcase",
+  "version": "1.4",
+  "summary": "Highlight the best parts of your application",
+  "homepage": "https://github.com/Azat92/iShowcase",
+  "license": "MIT",
+  "authors": {
+    "Azat Almeev": "azat.almeev@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/Azat92/iShowcase.git",
+    "tag": "1.4.1"
+  },
+  "source_files": [
+  "Pod/Classes/*.{h,m}"
+  ],
+  "requires_arc": true
+}
